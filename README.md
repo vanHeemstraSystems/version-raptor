@@ -1,7 +1,7 @@
-repository-name
-# Repository Name
+version-raptor
+# Version Raptor
 
-Based on "ABC" at https://www.abc.com/
+Based on "Version Raptor for After Effects Tutorial" at https://www.youtube.com/watch?v=bhaBuNQ_N88
 
 ## 100 - Introduction
 
