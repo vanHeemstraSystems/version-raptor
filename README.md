@@ -5,6 +5,8 @@ Based on "Version Raptor for After Effects Tutorial" at https://www.youtube.com/
 
 Based on "The Best FREE Auto-Save Plugin for After Effects! [Version Raptor Review]" at https://www.youtube.com/watch?v=2MWMJtp9900
 
+Check out Version Raptor for FREE here: https://aescripts.com/version-raptor/
+
 ## 100 - Introduction
 
 See [README.md](./100/README.md)
